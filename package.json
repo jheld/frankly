@@ -1,0 +1,24 @@
+{
+  "name": "frankly",
+  "version": "1.0.0",
+  "description": "`Frankly` is a summary dashboard about the open issues and PRs across any set of GitHub repositories. Because, frankly, we need one.",
+  "main": "index.js",
+  "dependencies": {
+    "base-package-json": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jheld/frankly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jheld/frankly/issues"
+  },
+  "homepage": "https://github.com/jheld/frankly#readme"
+}
